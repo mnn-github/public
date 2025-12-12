@@ -1,0 +1,35 @@
+# Acceptable Use Policy – Internet and Web Access
+
+## Purpose
+This policy defines acceptable and prohibited use of company-provided internet access and information systems to protect the organization, its users, and its data.
+
+## Scope
+This policy applies to all employees, contractors, consultants, and third parties who access company networks, devices, or cloud services, whether working onsite or remotely.
+
+## Acceptable Use
+Users may access the internet for legitimate business purposes and limited personal use, provided that such use:
+- Does not interfere with job responsibilities or system performance
+- Does not violate company policies, laws, or regulations
+- Does not expose the organization to security, legal, or reputational risk
+
+## Prohibited Use
+Access to the following types of websites and services is not permitted and may be blocked:
+- Malicious or high-risk sites (malware, phishing, command-and-control, anonymizers)
+- Illegal content or activities
+- Adult, pornographic, or explicit content
+- Gambling websites and services
+- Peer-to-peer file sharing and unauthorized software downloads
+- Sites used to bypass security controls (VPNs, proxies, Tor, DNS tunneling)
+- Any websites that violate company policies or applicable laws
+
+## Monitoring and Enforcement
+Internet usage may be monitored and logged for security and compliance purposes. Attempts to bypass security controls are prohibited and may result in disciplinary action.
+
+## Exceptions
+Business-related exceptions may be granted with documented approval from IT or Security and will be reviewed periodically.
+
+## Violations
+Violations of this policy may result in disciplinary action, up to and including termination of employment, and may involve legal consequences if applicable.
+
+## Acknowledgment
+By using company systems and internet access, users acknowledge and agree to comply with this Acceptable Use Policy.
